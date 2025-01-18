@@ -72,6 +72,7 @@ void chatMode() {
     map<string,string > responses = {
         {"hello", "Hello! How can I help you today?"},
         {"hi", "Hi there! What's on your mind?"},
+        {"hii", "Hi there! What's on your mind?"},
         {"how are you", "I'm just code, but I'm doing great!"},
         {"bye", "Goodbye! Have a great day!"}
     };
