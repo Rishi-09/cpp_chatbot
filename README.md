@@ -9,6 +9,8 @@ Make sure you have cpp extensions installed in vs code
   
   
 1.fork and clone this repo
+
+
 2. run the main.cpp in code editor using the command
 
      g++ main.cpp && ./a.out
