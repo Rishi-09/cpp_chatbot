@@ -96,6 +96,7 @@ void chatMode() {
         } else {
             cout << "Bot: I don’t understand that yet. Try something else!" << endl;
         }
+        cout << "Type 'exit' to return to the main menu.\n";
     }
 }
 
